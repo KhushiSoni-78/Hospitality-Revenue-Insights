@@ -48,4 +48,14 @@ The dashboard provides a **comprehensive view of KPIs** such as Revenue, ADR (Av
 
 ---
 
-## 📂 Project Structure
+## 🔑 Business Insights (as explained to stakeholders)
+- **Revenue Growth**: Clear upward trend in peak weeks, with identifiable dips in off-season.  
+- **ADR & RevPAR**: Higher ADR in corporate bookings, but OTA drives volume.  
+- **Occupancy %**: Consistently above industry average in metro cities, lower in tier-2 cities.  
+- **Cancellations**: Higher cancellations observed in OTA channels—highlighting dependency risks.  
+- **Weekly Trends**: Tooltip feature helps monitor **short-term shifts** for proactive action.  
+
+---
+
+
+
