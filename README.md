@@ -20,7 +20,7 @@ The dashboard provides a **comprehensive view of KPIs** such as Revenue, ADR (Av
 
 ## 🛠️ Skills & Tools Used
 - **Power BI**: Dashboard development & data visualization  
-- **DAX (Data Analysis Expressions)**: Calculated measures, KPIs, % growth, and YoY/ WoW trends  
+- **DAX (Data Analysis Expressions)**: Calculated measures, KPIs, % growth, and  WoW trends  
 - **Data Modeling**: Relationships between fact and dimension tables  
 - **ETL / Data Transformation**: Using Power Query for data cleaning & shaping  
 - **Analytical Thinking**: Breaking down business problems into measurable KPIs  
@@ -49,7 +49,7 @@ The dashboard provides a **comprehensive view of KPIs** such as Revenue, ADR (Av
 
 ## 🔑 Business Insights (as explained to stakeholders)
 - **Revenue Growth**: Clear upward trend in peak weeks, with identifiable dips in off-season.  
-- **ADR & RevPAR**: Higher ADR in corporate bookings, but OTA drives volume.  
+- **ADR & RevPAR**: Higher ADR in corporate bookings, but OTA(online travel agency) drives volume.  
 - **Occupancy %**: Consistently above industry average in metro cities, lower in tier-2 cities.  
 - **Cancellations**: Higher cancellations observed in OTA channels—highlighting dependency risks.  
 - **Weekly Trends**: Tooltip feature helps monitor **short-term shifts** for proactive action.  
