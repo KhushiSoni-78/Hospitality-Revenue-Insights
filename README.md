@@ -1,7 +1,6 @@
 # 🏨 Hospitality Domain Revenue Insights Dashboard
 
 ![Dashboard Screenshot](./hospitalityDomainDashboard.png)  
-*Add your dashboard screenshot with the filename `dashboard.png` in the repo root.*
 
 ---
 
